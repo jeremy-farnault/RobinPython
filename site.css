@@ -1,0 +1,15 @@
+html {
+}
+
+h1 {
+  color: blue;
+  text-shadow: 2px 2px 5px red;
+}
+
+.title-red {
+  color: black;
+}
+
+h2 {
+  border-style: inset;
+}
